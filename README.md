@@ -28,7 +28,7 @@
 - Formação = Full Stack Developer pela Growdev
 - Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
 - Linguagem de Programação favorita = JAVA
-- Estudando atualmente = html|css|JavaScript
+- Estudando atualmente = html css JavaScript
 
 <br><br>
 
