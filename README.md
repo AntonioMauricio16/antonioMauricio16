@@ -1,8 +1,6 @@
-## 😀 HI
-Meu nome e  Antonio Mauricio
-Tenho 29 anos 
-Hobbies = Asistir animes , ver Futeboll
-Formação = Full Stack Developer pela Growdev
+
+
+
 Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
 Linguagem de Programação favorita = JAVA
 Estudando atualmente = html|css|JavaScript
@@ -25,9 +23,9 @@ Estudando atualmente = html|css|JavaScript
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Sou Antinio Muricio tenho 29 anos
+-Hobbies = Asistir animes , ver Futeboll
+- Formação = Full Stack Developer pela Growdev
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
