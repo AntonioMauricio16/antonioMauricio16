@@ -1,9 +1,9 @@
 
 
 
-Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
-Linguagem de Programação favorita = JAVA
-Estudando atualmente = html|css|JavaScript
+
+
+
 
 <h1 align="center"><b>Hi , I'm Antonio Mauricio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -24,10 +24,11 @@ Estudando atualmente = html|css|JavaScript
 <br>
 
 - Sou Antinio Muricio tenho 29 anos
--Hobbies = Asistir animes , ver Futeboll
+- Hobbies = Asistir animes , ver Futeboll
 - Formação = Full Stack Developer pela Growdev
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
+- Linguagem de Programação favorita = JAVA
+- Estudando atualmente = html|css|JavaScript
 
 <br><br>
 
