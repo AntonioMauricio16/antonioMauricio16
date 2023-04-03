@@ -26,7 +26,7 @@
 
 - Sou Antinio Muricio tenho 29 anos
 - Hobbies = Asistir animes , ver Futeboll
-- Formação = Full Stack Developer pela Growdev
+- Formação = Full Stack Developer pela Growdev , Técnico em informática
 - Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
 - Estudando atualmente = html css JavaScript
 
