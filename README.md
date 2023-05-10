@@ -28,7 +28,7 @@
 - Hobbies = Asistir animes , ver Futeboll
 - Formação = Full Stack Developer pela Growdev , Técnico em informática
 - Experiências = Técnico em informática , suporte técnico com automação comercial, Agente de Registro
-- Estudando atualmente = html css JavaScript
+- Estudando atualmente = html css JavaScript,Node.js e APIRest.
 
 <br><br>
 
