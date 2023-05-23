@@ -23,12 +23,12 @@ object **SEU NOME** {
 ## 🚀 Minhas Redes
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="lucasteech.dev@gmail.com /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-mauricio-de-sousa-silva-801161259/https://www.linkedin.com/in/ant%C3%B4nio-mauricio-de-sousa-silva-801161259/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-mauricio-de-sousa-silva-801161259//" /></a>
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=https://www.instagram.com/antonio_mauricio16/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=https://www.instagram.com/"/></a>
 </p>  
 ## 🚀 Minhas Skills
 
